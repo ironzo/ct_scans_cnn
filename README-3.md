@@ -30,4 +30,4 @@ The code is structured to allow easy replication of the results and further expe
 The dataset used in this project is courtesy of the [Kaggle dataset](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images/data) provided by Mohamed Hany. The work completed in this project is a testament to the potentials of machine learning in medical imaging.
 
 ## Contact
-For any queries regarding this project, please feel free to contact [Your Name].
+For any queries regarding this project, please feel free to contact me.
